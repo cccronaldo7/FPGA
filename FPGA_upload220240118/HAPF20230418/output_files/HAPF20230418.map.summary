@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Jan 19 11:11:37 2024
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : HAPF20230418
+Top-level Entity Name : HAPF20230418
+Family : Cyclone III
+Total logic elements : 1,469
+    Total combinational functions : 1,109
+    Dedicated logic registers : 875
+Total registers : 875
+Total pins : 56
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

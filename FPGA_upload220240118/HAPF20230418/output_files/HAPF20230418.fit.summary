@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Jan 19 11:11:48 2024
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : HAPF20230418
+Top-level Entity Name : HAPF20230418
+Family : Cyclone III
+Device : EP3C25Q240C8
+Timing Models : Final
+Total logic elements : 1,282 / 24,624 ( 5 % )
+    Total combinational functions : 1,111 / 24,624 ( 5 % )
+    Dedicated logic registers : 875 / 24,624 ( 4 % )
+Total registers : 875
+Total pins : 56 / 149 ( 38 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
